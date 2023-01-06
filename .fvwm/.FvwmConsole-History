@@ -1,0 +1,4 @@
+help
+ToggleRightButtons
+Restart fvwm -f $[HOME]config
+Restart fvwm -f $[HOME]config

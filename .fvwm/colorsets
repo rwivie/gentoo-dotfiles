@@ -1,0 +1,58 @@
+#####################
+####  colorsets  ####
+#####################
+
+#######
+# 3: Colorsets
+#
+# Colorsets can be used to configure the color of the various
+# parts of fvwm such as window decor, menus, modules, etc.
+#
+# Colorset Convention
+#
+#   0 - Default
+#   1 - Inactive Windows
+#   2 - Active Window
+#   3 - Inactive Windows Borders
+#   4 - Active Windows Borders
+#   5 - Menu - Inactive Item
+#   6 - Menu - Active Item
+#   7 - Menu - Grayed Item
+#   8 - Menu - Title
+#   9 - Reserved
+#  10+ Modules
+#      10 - Module Default   (for confirmquit)
+#      11 - Module Hilight
+#      12 - Module ActiveButton (Mouse Hover)
+#      13 - FvwmPager Active Page
+#      14 - FvwmIconMan Iconified Button
+###########
+
+#==== catppuccin-mocha
+Colorset 0  fg #cdd6f4, bg #11111b, hi, sh, Plain, NoShape
+Colorset 1  fg #1e1e2e, bg #11111b, hi #11111b, sh #11111b, Plain, NoShape
+Colorset 2  fg #cdd6f4, bg #11111b, hi, sh, Plain, NoShape
+Colorset 3  fg #11111b, bg #1e1e2e, hi #11111b, sh #11111b, Plain, NoShape
+Colorset 4  fg #11111b, bg #11111b, hi #1e1e2e, sh #11111b, Plain, NoShape
+#==== menu 5,6,7,8
+#====
+Colorset 5  fg #cdd6f4, bg #11111b, hi #11111b, sh #11111b, Plain, NoShape
+#==== menu active
+Colorset 6  fg #cdd6f4, bg #313244, hi #11111b, sh #11111b, Plain, NoShape
+Colorset 7  fg #9399b2, bg #11111b, hi, sh, Plain, NoShape
+Colorset 8  fg #cdd6f4, bg #11111b, hi #11111b, sh #11111b, Plain, NoShape
+Colorset 10 fg #cdd6f4, bg #11111b, hi #1e1e2e, sh #1e1e2e, Plain, NoShape
+Colorset 11 fg #cdd6f4, bg #1e1e2e, hi #1e1e2e, sh #11111b, Plain, NoShape
+#==== active task
+Colorset 12 fg #cdd6f4, bg #313244, hi, sh, Plain, NoShape
+Colorset 13 fg #cdd6f4, bg #585b70, hi #cdd6f4, sh #cdd6f4, Plain, NoShape
+Colorset 14 fg #cdd6f4, bg #11111b, hi #11111b, sh #9399b2, Plain, NoShape
+Colorset 15 fg #cdd6f4, bg #585b70, hi #1e1e2e, sh #9399b2, Plain, NoShape
+Colorset 16 fg #cdd6f4, bg #928374, hi #585b70, sh #585b70, Plain, NoShape
+Colorset 17 fg #cdd6f4, bg #585b70, hi #cdd6f4, sh #cdd6f4, Plain, NoShape
+Colorset 18 fg #cdd6f4, bg #9399b2, hi #11111b, sh #11111b, Plain, NoShape
+Colorset 19 fg #cdd6f4, bg #89b4fa, hi #a6e3a1, sh #a6e3a1, Plain, NoShape
+Colorset 20 fg #cdd6f4, bg #9399b2, hi #585b70, sh #585b70, Plain, NoShape
+Colorset 21 fg #cdd6f4, bg #cdd6f4, hi, sh, Plain, NoShape
+
+
