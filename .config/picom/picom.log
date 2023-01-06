@@ -1,0 +1,208 @@
+[ 11/18/2022 14:55:22.423 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 11/29/2022 03:06:28.166 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 08:26:51.893 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x0220055a.
+[ 11/29/2022 08:26:51.893 paint_one ERROR ] Failed to bind texture for window 0x014000b8.
+[ 11/29/2022 08:26:51.893 paint_one ERROR ] Window 0x014000b8 is missing painting data.
+[ 11/29/2022 08:51:40.974 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x02200b7a.
+[ 11/29/2022 08:51:40.974 paint_one ERROR ] Failed to bind texture for window 0x014000b8.
+[ 11/29/2022 08:51:40.974 paint_one ERROR ] Window 0x014000b8 is missing painting data.
+[ 11/29/2022 08:56:19.744 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x02200e5d.
+[ 11/29/2022 08:56:19.744 paint_one ERROR ] Failed to bind texture for window 0x02800b90.
+[ 11/29/2022 08:56:19.744 paint_one ERROR ] Window 0x02800b90 is missing painting data.
+[ 11/29/2022 09:03:09.012 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 09:05:07.313 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e00df6.
+[ 11/29/2022 09:05:07.313 paint_one ERROR ] Failed to bind texture for window 0x00c00057.
+[ 11/29/2022 09:05:07.313 paint_one ERROR ] Window 0x00c00057 is missing painting data.
+[ 11/29/2022 09:48:33.259 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 10:02:01.820 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 10:09:03.786 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 10:10:17.434 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e00426.
+[ 11/29/2022 10:10:17.434 paint_one ERROR ] Failed to bind texture for window 0x00a04159.
+[ 11/29/2022 10:10:17.434 paint_one ERROR ] Window 0x00a04159 is missing painting data.
+[ 11/29/2022 10:51:48.018 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 10:55:35.083 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 10:56:07.476 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e002b2.
+[ 11/29/2022 10:56:07.476 paint_one ERROR ] Failed to bind texture for window 0x00a016d7.
+[ 11/29/2022 10:56:07.476 paint_one ERROR ] Window 0x00a016d7 is missing painting data.
+[ 11/29/2022 10:56:27.478 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 11:30:56.469 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 11:31:39.314 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 11:40:56.281 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 11:42:37.221 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 11:44:51.966 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 11:51:05.464 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 13:23:15.261 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:12:52.055 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:13:39.575 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:17:12.925 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:20:03.751 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e00889.
+[ 11/29/2022 15:20:03.751 paint_one ERROR ] Failed to bind texture for window 0x00802404.
+[ 11/29/2022 15:20:03.751 paint_one ERROR ] Window 0x00802404 is missing painting data.
+[ 11/29/2022 15:34:46.232 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:35:59.566 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e00310.
+[ 11/29/2022 15:35:59.566 paint_one ERROR ] Failed to bind texture for window 0x00a0062c.
+[ 11/29/2022 15:35:59.566 paint_one ERROR ] Window 0x00a0062c is missing painting data.
+[ 11/29/2022 15:43:19.993 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:44:29.506 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 15:45:00.658 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 16:01:26.206 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e0060d.
+[ 11/29/2022 16:01:26.206 paint_one ERROR ] Failed to bind texture for window 0x01c00070.
+[ 11/29/2022 16:01:26.206 paint_one ERROR ] Window 0x01c00070 is missing painting data.
+[ 11/29/2022 16:01:26.221 glx_bind_pixmap ERROR ] Failed to query info of pixmap 0x00e0060d.
+[ 11/29/2022 16:01:26.221 paint_one ERROR ] Failed to bind texture for window 0x01c00070.
+[ 11/29/2022 16:01:26.221 paint_one ERROR ] Window 0x01c00070 is missing painting data.
+[ 11/29/2022 16:09:12.332 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 16:11:46.520 init_render WARN ] Old backends only support blur method "kernel". Your blur setting will not be applied
+[ 11/29/2022 16:28:43.647 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 11/29/2022 16:28:43.647 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 11/29/2022 16:28:43.647 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 11/29/2022 21:04:42.033 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2022 21:27:32.004 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2022 21:35:00.924 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2022 21:35:58.270 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 65593)
+[ 11/29/2022 21:35:58.270 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 65606)
+[ 11/29/2022 21:35:58.270 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 65620)
+[ 11/29/2022 21:35:58.344 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2022 21:39:55.703 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 82725)
+[ 11/29/2022 21:39:55.703 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 82738)
+[ 11/29/2022 21:39:55.703 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 82752)
+[ 11/29/2022 21:39:55.772 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/29/2022 22:00:59.527 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 213525)
+[ 11/29/2022 22:00:59.527 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 213538)
+[ 11/29/2022 22:00:59.527 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 213552)
+[ 11/29/2022 22:00:59.620 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/30/2022 10:01:33.714 win_bind_pixmap ERROR ] Failed to get named pixmap for window 0x00e00443(~)
+[ 11/30/2022 11:36:16.883 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 11/30/2022 11:40:51.982 glx_bind_pixmap ERROR ] Invalid pixmap 0x0120011d
+[ 11/30/2022 11:40:51.982 win_bind_shadow ERROR ] Failed to bind shadow image, shadow will be disabled for 0x02e00007 (~/.xprofile - Mousepad)
+[ 11/30/2022 11:40:51.982 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 11/30/2022 11:52:18.008 session_init FATAL ERROR ] Another composite manager is already running
+[ 11/30/2022 12:39:15.649 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 11/30/2022 12:50:44.394 glx_bind_pixmap ERROR ] Invalid pixmap 0x01c0133c
+[ 11/30/2022 12:50:44.394 win_bind_shadow ERROR ] Failed to bind shadow image, shadow will be disabled for 0x0060002c (Useful Portage tools - Gentoo Wiki — Mozilla Firefox)
+[ 11/30/2022 12:50:44.394 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 11/30/2022 13:15:51.223 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 11/30/2022 22:15:45.901 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/01/2022 14:54:45.702 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/01/2022 14:54:45.702 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/01/2022 17:04:45.129 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 17:58:24.758 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 917513)
+[ 12/01/2022 17:58:24.758 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 917526)
+[ 12/01/2022 17:58:24.758 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 917539)
+[ 12/01/2022 17:58:24.758 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 917552)
+[ 12/01/2022 17:58:24.758 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 917566)
+[ 12/01/2022 17:58:24.865 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 17:59:55.486 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 18:00:52.466 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 18:01:40.294 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 947411)
+[ 12/01/2022 18:01:40.294 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 947424)
+[ 12/01/2022 18:01:40.294 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 947437)
+[ 12/01/2022 18:01:40.294 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 947450)
+[ 12/01/2022 18:01:40.294 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 947464)
+[ 12/01/2022 18:01:40.376 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 18:09:48.632 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 993723)
+[ 12/01/2022 18:09:48.632 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 993736)
+[ 12/01/2022 18:09:48.632 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 993749)
+[ 12/01/2022 18:09:48.632 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 993762)
+[ 12/01/2022 18:09:48.632 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 993776)
+[ 12/01/2022 18:09:48.731 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 18:40:29.106 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 19:35:44.976 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 98807)
+[ 12/01/2022 19:35:44.981 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 98820)
+[ 12/01/2022 19:35:44.981 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 98833)
+[ 12/01/2022 19:35:44.981 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 98846)
+[ 12/01/2022 19:35:44.981 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 98860)
+[ 12/01/2022 19:35:45.080 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/01/2022 21:28:13.649 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/01/2022 21:46:40.822 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 10:28:26.091 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 16259)
+[ 12/02/2022 10:28:26.091 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 16272)
+[ 12/02/2022 10:28:26.091 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 16285)
+[ 12/02/2022 10:28:26.091 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 16299)
+[ 12/02/2022 10:28:26.183 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 11:18:42.506 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 31958)
+[ 12/02/2022 11:18:42.506 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 31971)
+[ 12/02/2022 11:18:42.506 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 31985)
+[ 12/02/2022 11:18:42.584 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 11:19:18.243 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 37178)
+[ 12/02/2022 11:19:18.243 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 37191)
+[ 12/02/2022 11:19:18.243 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 37205)
+[ 12/02/2022 11:19:18.318 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 11:19:51.371 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 11:21:20.577 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 11:21:34.723 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 11:22:11.579 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 58107)
+[ 12/02/2022 11:22:11.579 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 58120)
+[ 12/02/2022 11:22:11.579 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 58134)
+[ 12/02/2022 11:22:11.659 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/02/2022 19:15:33.811 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/02/2022 19:15:33.811 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/03/2022 10:23:17.856 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/03/2022 11:35:16.254 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/03/2022 20:08:28.122 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/03/2022 20:08:28.122 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/03/2022 20:12:02.224 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/03/2022 20:15:03.900 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/03/2022 21:43:05.169 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/03/2022 21:50:36.699 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/03/2022 22:01:49.167 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/04/2022 21:49:46.303 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/04/2022 22:15:15.724 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/04/2022 22:50:42.177 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/04/2022 22:55:51.629 glx_bind_pixmap ERROR ] Invalid pixmap 0x02201da9
+[ 12/04/2022 22:55:51.629 win_bind_shadow ERROR ] Failed to bind shadow image, shadow will be disabled for 0x00600007 (conky)
+[ 12/04/2022 22:55:51.629 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/06/2022 01:22:19.337 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/06/2022 09:50:39.279 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/06/2022 11:55:41.549 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 6888)
+[ 12/06/2022 12:59:00.363 glx_bind_pixmap ERROR ] Invalid pixmap 0x01c071b6
+[ 12/06/2022 12:59:00.364 win_bind_shadow ERROR ] Failed to bind shadow image, shadow will be disabled for 0x0400000e (~)
+[ 12/06/2022 14:32:34.062 glx_bind_pixmap ERROR ] Invalid pixmap 0x01e0a675
+[ 12/06/2022 14:32:34.062 win_bind_shadow ERROR ] Failed to bind shadow image, shadow will be disabled for 0x03c00003 (~/.fvwm/colorsets - Mousepad)
+[ 12/06/2022 14:32:34.062 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/06/2022 17:45:24.252 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/07/2022 23:03:07.391 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/08/2022 18:18:34.749 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 83262)
+[ 12/08/2022 18:18:34.754 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 83276)
+[ 12/08/2022 18:18:34.876 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/11/2022 15:04:12.344 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/14/2022 09:41:30.358 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/16/2022 02:16:42.985 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/16/2022 10:04:51.698 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/16/2022 10:04:51.698 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/17/2022 14:01:06.193 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/19/2022 21:18:17.871 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/19/2022 21:22:35.728 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/19/2022 21:30:37.128 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/19/2022 21:56:03.667 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/19/2022 22:30:02.770 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/23/2022 01:19:58.109 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/23/2022 01:19:58.114 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/23/2022 01:19:58.114 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/23/2022 11:04:09.544 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 2877)
+[ 12/23/2022 11:04:09.581 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/23/2022 11:11:36.630 x_fetch_region ERROR ] Failed to fetch rectangles (No error)
+[ 12/23/2022 11:13:16.762 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/23/2022 11:17:50.285 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/23/2022 11:17:50.285 win_mark_client ERROR ] Failed to get client window attributes (No error)
+[ 12/23/2022 11:17:50.285 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+[ 12/23/2022 12:20:20.240 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 25000)
+[ 12/23/2022 12:20:20.253 win_bind_pixmap ERROR ] Failed to get named pixmap for window 0x02200001((null))
+[ 12/23/2022 12:21:18.409 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 10511)
+[ 12/23/2022 12:21:18.409 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 10539)
+[ 12/23/2022 12:21:18.432 win_bind_pixmap ERROR ] Failed to get named pixmap for window 0x02000001((null))
+[ 12/23/2022 12:21:18.433 win_bind_pixmap ERROR ] Failed to get named pixmap for window 0x01200001((null))
+[ 12/23/2022 17:50:30.728 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/23/2022 17:51:42.770 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/24/2022 00:16:48.416 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 2061906)
+[ 12/24/2022 00:16:48.417 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 2061919)
+[ 12/24/2022 00:16:48.417 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 2061933)
+[ 12/24/2022 00:16:48.512 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/26/2022 23:13:59.260 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/26/2022 23:14:39.659 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/26/2022 23:15:05.324 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 7501)
+[ 12/26/2022 23:15:05.366 session_init FATAL ERROR ] Another composite manager is already running
+[ 12/26/2022 23:17:22.679 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 18663)
+[ 12/26/2022 23:17:22.679 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 18676)
+[ 12/26/2022 23:17:22.679 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 18690)
+[ 12/26/2022 23:17:22.772 session_init FATAL ERROR ] Another composite manager is already running
